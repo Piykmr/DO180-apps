@@ -1,6 +1,6 @@
 <?php
 
-$aprilFool = "Aye pril, full! Annu Kumari chupchap hashedin me kaam karo";
+$aprilFool = "Aye pril, full! chupchap hashedin me kaam karo";
 echo $aprilFool;
 
 ?>
